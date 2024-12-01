@@ -7,7 +7,7 @@
 ## Step 1
 **clone this repository**
 ```
-git clone https://github.com/Jabriksky/Jabriksky.git
+git@github.com:Jabriksky/Tester.git
 #cd Openloop
 ```
 ## Step 2
